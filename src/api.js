@@ -7,7 +7,7 @@ const API = axios.create({
 */
 
 const API = axios.create({
-    baseURL: 'https://go-crud-api.onrender.com', // Replace with your actual Render backend URL
+    baseURL: 'https://go-curd-app.onrender.com', // Replace with your actual Render backend URL
 });
 
 export default API;
